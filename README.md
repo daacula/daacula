@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daacula
 - 👀 I’m interested in typed
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Pista 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... mantella.lim@gmail.com
 
 <!---
